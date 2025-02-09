@@ -1,6 +1,6 @@
 # 🌤 WeatherNow
 
-**WeatherNow** is a **React-based web application** that allows users to search for weather information by entering a location into a search box. The app fetches real-time weather data using the OpenWeather API.
+**WeatherNow** is a **React-based web application** that allows user to search for weather information by entering a location into a search box. The app fetches real-time weather data using the OpenWeather API.
 
 ## Features
 - Search weather by city name
