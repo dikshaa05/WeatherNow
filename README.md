@@ -14,9 +14,9 @@
 ```
    npm install
 ```
-```
+
    **Create a `.env` file in the root directory and add**
-```
+   
 ```
    VITE_OPENWEATHER_API_KEY=your_api_key_here
 ```
