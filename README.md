@@ -1,8 +1,25 @@
-# React + Vite
+# 🌤 WeatherNow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**WeatherNow** is a **React-based web application** that allows users to search for weather information by entering a location into a search box. The app fetches real-time weather data using the OpenWeather API.
 
-Currently, two official plugins are available:
+## Features
+- Search weather by city name
+- Displays temperature, humidity and weather conditions.
+- Fetches real-time data from OpenWeather API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+```
+   git clone https://github.com/dikshaa05/WeatherNow.git && cd WeatherNow
+```
+```
+   npm install
+```
+```
+   **Create a `.env` file in the root directory and add**
+```
+```
+   VITE_OPENWEATHER_API_KEY=your_api_key_here
+```
+```
+   npm run dev
+```
